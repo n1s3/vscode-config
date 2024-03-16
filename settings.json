@@ -1,0 +1,22 @@
+{
+    "editor.minimap.enabled": false,
+    "remote.autoForwardPortsSource": "hybrid",
+    "editor.fontFamily": "'Cascadia Code', 'Regular', 'FontAwesome', 'Symbols Nerd Font Mono', 'monospace'",
+    "editor.fontSize": 15,
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Palenight Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.theme": "specific",
+    "explorer.sortOrder": "modified",
+    "workbench.sideBar.location": "right",
+    "window.menuBarVisibility": "toggle",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.activityBar.location": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "workbench.editor.showTabs": "none",
+    "workbench.editor.limit.value": 1,
+    "json.schemas": [
+    ]
+}
